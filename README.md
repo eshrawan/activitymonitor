@@ -15,7 +15,9 @@ The digital values of the LOC will be prescribed in **three ranges** using the b
 The data on the cloud will be helpful to find any discrepancies with past data for a particular activity, and it can also be used to form a fitting schedule for the child which would benefit them.The activities chosen to test my results are listed below, but any therapist/parent/those whom concerned could set up their own prescribed activities list that is personlized, and easily store their results with this could system. 
 
 ## List of activities (will be age appropiated further during testing): 
-					  															  1. Listening to music 
+					  
+					  
+					  1. Listening to music 
                                           2. Watching educational videos
                                           3. Reading/ listening to a story book
                                           4. Solving puzzles/brain teasers/mental math
