@@ -16,13 +16,13 @@ The data on the cloud will be helpful to find any discrepancies with past data f
 
 # List of activities (will be age appropiated further during testing): 
 					  
-					  
-				1. Listening to music 
-                                2. Watching educational videos
-                                3. Reading/ listening to a story book
-                                4. Solving puzzles/brain teasers/mental math
-                                5. Eating various food
-                                6. Playing video games
+
+                                   1. Listening to music 
+                                   2. Watching educational videos
+                                   3. Reading/ listening to a story book
+                                   4. Solving puzzles/brain teasers/mental math
+                                   5. Eating various food
+                                   6. Playing video games
 
 These activities ensure that those who are concerned can learn what kind of a learner a specific child is (visual, kinesthetic, auditory) and can track his progress on various life-learning skills as well. It can track his attention and calmness throughout studying, and hence times for scheduling can also be made way easier.
 
