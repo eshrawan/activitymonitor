@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import time
 from datetime import datetime
 import evdev
-from evdev import InputDevice, categorize  # import * is evil :)
+from evdev import InputDevice, categorize  
 import os
 import urllib2
 from urllib2 import Request,urlopen,URLError,HTTPError
@@ -345,7 +345,7 @@ def send_data(avg, data_type, name, act):
                     lcd.set_cursor(0,1)
                     lcd.message('Please check conn')
                     lcd.set_cursor(0,2)
-                    lcd.message('Rst to Discard data')
+                    lcd.message('Reset to Discard data')
     
 
 def collect_data(student, activity):
