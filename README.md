@@ -1,4 +1,4 @@
-# brainwave
+# Acitvity Monitor
 
 My brother is differently abled and is very picky about his likes and dislikes. The people in his life, his teachers, therapists and us as a family, spend a lot of time figuring out what's right for him; his likes and dislikes. I sought to explore how I could potentially monitor whether or not he likes something, especially because he is not very vocal in his thoughts.
 
